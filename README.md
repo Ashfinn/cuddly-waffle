@@ -1,6 +1,6 @@
-# crispy-doodle
+# Baking Sourdough Cinnamon Rolls
 
-A template for lesson repositories that can be used for demonstration purposes.
+An example lesson teaching how to bake sourdough cinnamon rolls.
 
-Warning: the files in all branches of this repository are designed to contain errors. 
-The repository and lesson are not intended for use as a guide to best practices with The Carpentries Workbench.
+Generated from [_crispy-doodle_](https://github.com/carpentries/crispy-doodle).
+
