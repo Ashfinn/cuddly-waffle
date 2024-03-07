@@ -5,7 +5,7 @@ An example lesson teaching how to bake sourdough cinnamon rolls using
 
 Generated from [_crispy-doodle_](https://github.com/carpentries/crispy-doodle).
 
-## Maitainers
+## Maintainers
 
 Current maintainers of this lesson are:
 * [Toby Hodges](https://github.com/tobyhodges) (Lead Maintainer)
