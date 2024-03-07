@@ -35,6 +35,6 @@ To be added.
 The material in this repository is available under the [Creative Commons Attribution
 license CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
-For more details, check [LICENCE.md](LICENCE.md).
+For more details, check [LICENSE.md](LICENSE.md).
 
 
